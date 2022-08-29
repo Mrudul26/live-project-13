@@ -7,7 +7,9 @@ It's a Frontend Web Development Project using HTML and CSS.
 
 
 
-![](13.png)
+![](1.png)
+![](2.png)
+![](3.png)
 
 
 - - -
